@@ -1,6 +1,6 @@
 # Demo starter template (with Sass)
 
-My starter template for larger demos on [my YouTube channel](https://youtube.com/kevinpowell) where I am using Sass.
+My starting template for a few projects where I'm using Sass.
 
 ## Development Scripts
 
